@@ -1,0 +1,70 @@
+2024-02-11T20:02:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1443
+
+2024-02-11T20:45:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/class-woostify.php на строке 142
+
+2024-02-11T21:00:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1443
+
+2024-02-11T21:05:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1443
+
+2024-02-11T21:05:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1443
+
+2024-02-11T21:06:04+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php на строке 627
+
+2024-02-11T21:07:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1443
+
+2024-02-11T21:07:55+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php на строке 627
+
+2024-02-11T21:12:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1443
+
+2024-02-11T21:13:00+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-fonts-helpers.php на строке 289
+
+2024-02-11T21:23:04+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-fonts-helpers.php на строке 289
+
+2024-02-11T21:32:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-customizer.php на строке 337
+
+2024-02-11T21:32:38+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1443
+
+2024-02-11T21:47:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/plugins/elementor/modules/generator-tag/module.php на строке 66
+
+2024-02-11T21:49:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1140
+
+2024-02-11T22:05:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1443
+
+2024-02-11T22:07:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1443
+
+2024-02-11T22:16:49+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/woocommerce/woostify-woocommerce-template-functions.php на строке 1135
+
+2024-02-11T22:19:38+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1443
+
+2024-02-11T22:27:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1443
+
+2024-02-11T22:29:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/woostify-template-functions.php на строке 2211
+
+2024-02-11T22:35:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/woocommerce/woostify-woocommerce-template-functions.php на строке 1504
+
+2024-02-11T22:35:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/woocommerce/woostify-woocommerce-template-functions.php на строке 1504
+
+2024-02-11T22:35:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/woocommerce/woostify-woocommerce-template-functions.php на строке 1781
+
+2024-02-11T22:36:10+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 862
+
+2024-02-11T22:37:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/woostify-template-functions.php на строке 2045
+
+2024-02-11T22:39:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/customizer/class-woostify-get-css.php на строке 1443
+
+2024-02-11T22:39:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/woocommerce/woostify-woocommerce-template-functions.php на строке 2129
+
+2024-02-11T22:39:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/woocommerce/woostify-woocommerce-template-functions.php на строке 2129
+
+2024-02-11T22:40:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /Applications/MAMP/htdocs/online-shop/wp-content/themes/woostify/inc/woocommerce/woostify-woocommerce-template-functions.php на строке 2129
+
+2024-02-11T22:42:20+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) в /Applications/MAMP/htdocs/online-shop/wp-includes/class-wpdb.php на строке 2349
+
+2024-02-11T22:42:25+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) в /Applications/MAMP/htdocs/online-shop/wp-includes/class-wpdb.php на строке 2349
+
+2024-02-11T22:42:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 163840 bytes) в /Applications/MAMP/htdocs/online-shop/wp-includes/plugin.php на строке 125
+
+2024-02-11T22:45:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) в /Applications/MAMP/htdocs/online-shop/wp-admin/includes/admin.php на строке 65
+
+2024-02-11T22:52:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 163840 bytes) в /Applications/MAMP/htdocs/online-shop/wp-includes/plugin.php на строке 125
+

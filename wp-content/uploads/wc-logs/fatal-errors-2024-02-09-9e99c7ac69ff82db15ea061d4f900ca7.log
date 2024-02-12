@@ -1,0 +1,153 @@
+2024-02-09T15:36:30+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php:162
+Stack trace:
+#0 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php(162): sprintf('%1$s installed ...', 'Contact Form 7')
+#1 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3646): Bulk_Upgrader_Skin->after('Contact Form 7')
+#2 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-wp-upgrader.php(921): TGMPA_Bulk_Installer_Skin->after()
+#3 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3266): WP_Upgrader->run(Array)
+#4 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3379): TGMPA_Bulk_Installer->run(Array)
+#5 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(2985): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#8 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /Applications/MAMP/htdocs/online-shop/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/MAMP/htdocs/online-shop/wp-admin/admin.php(259): do_action('plugins_page_tg...')
+#11 /Applications/MAMP/htdocs/online-shop/wp-admin/plugins.php(10): require_once('/Applications/M...')
+#12 {main}
+  thrown в /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php на строке 162
+
+2024-02-09T15:36:39+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php:162
+Stack trace:
+#0 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php(162): sprintf('%1$s installed ...', 'Elementor')
+#1 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3646): Bulk_Upgrader_Skin->after('Elementor')
+#2 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-wp-upgrader.php(921): TGMPA_Bulk_Installer_Skin->after()
+#3 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3266): WP_Upgrader->run(Array)
+#4 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3379): TGMPA_Bulk_Installer->run(Array)
+#5 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(2985): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#8 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /Applications/MAMP/htdocs/online-shop/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/MAMP/htdocs/online-shop/wp-admin/admin.php(259): do_action('plugins_page_tg...')
+#11 /Applications/MAMP/htdocs/online-shop/wp-admin/plugins.php(10): require_once('/Applications/M...')
+#12 {main}
+  thrown в /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php на строке 162
+
+2024-02-09T15:36:52+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php:162
+Stack trace:
+#0 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php(162): sprintf('%1$s installed ...', 'Instagram Feed')
+#1 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3646): Bulk_Upgrader_Skin->after('Instagram Feed')
+#2 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-wp-upgrader.php(921): TGMPA_Bulk_Installer_Skin->after()
+#3 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3266): WP_Upgrader->run(Array)
+#4 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3379): TGMPA_Bulk_Installer->run(Array)
+#5 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(2985): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#8 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /Applications/MAMP/htdocs/online-shop/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/MAMP/htdocs/online-shop/wp-admin/admin.php(259): do_action('plugins_page_tg...')
+#11 /Applications/MAMP/htdocs/online-shop/wp-admin/plugins.php(10): require_once('/Applications/M...')
+#12 {main}
+  thrown в /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php на строке 162
+
+2024-02-09T15:37:09+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php:162
+Stack trace:
+#0 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php(162): sprintf('%1$s installed ...', 'TI WooCommerce ...')
+#1 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3646): Bulk_Upgrader_Skin->after('TI WooCommerce ...')
+#2 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-wp-upgrader.php(921): TGMPA_Bulk_Installer_Skin->after()
+#3 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3266): WP_Upgrader->run(Array)
+#4 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3379): TGMPA_Bulk_Installer->run(Array)
+#5 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(2985): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#8 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /Applications/MAMP/htdocs/online-shop/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/MAMP/htdocs/online-shop/wp-admin/admin.php(259): do_action('plugins_page_tg...')
+#11 /Applications/MAMP/htdocs/online-shop/wp-admin/plugins.php(10): require_once('/Applications/M...')
+#12 {main}
+  thrown в /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php на строке 162
+
+2024-02-09T15:37:29+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php:162
+Stack trace:
+#0 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php(162): sprintf('%1$s installed ...', 'Variation Swatc...')
+#1 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3646): Bulk_Upgrader_Skin->after('Variation Swatc...')
+#2 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-wp-upgrader.php(921): TGMPA_Bulk_Installer_Skin->after()
+#3 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3266): WP_Upgrader->run(Array)
+#4 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3379): TGMPA_Bulk_Installer->run(Array)
+#5 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(2985): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#8 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /Applications/MAMP/htdocs/online-shop/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/MAMP/htdocs/online-shop/wp-admin/admin.php(259): do_action('plugins_page_tg...')
+#11 /Applications/MAMP/htdocs/online-shop/wp-admin/plugins.php(10): require_once('/Applications/M...')
+#12 {main}
+  thrown в /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php на строке 162
+
+2024-02-09T15:50:40+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php:162
+Stack trace:
+#0 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php(162): sprintf('%1$s installed ...', 'Contact Form 7')
+#1 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3646): Bulk_Upgrader_Skin->after('Contact Form 7')
+#2 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-wp-upgrader.php(921): TGMPA_Bulk_Installer_Skin->after()
+#3 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3266): WP_Upgrader->run(Array)
+#4 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3379): TGMPA_Bulk_Installer->run(Array)
+#5 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(2985): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#8 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /Applications/MAMP/htdocs/online-shop/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/MAMP/htdocs/online-shop/wp-admin/admin.php(259): do_action('plugins_page_tg...')
+#11 /Applications/MAMP/htdocs/online-shop/wp-admin/plugins.php(10): require_once('/Applications/M...')
+#12 {main}
+  thrown in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php on line 162
+
+2024-02-09T15:50:49+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php:162
+Stack trace:
+#0 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php(162): sprintf('%1$s installed ...', 'Elementor')
+#1 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3646): Bulk_Upgrader_Skin->after('Elementor')
+#2 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-wp-upgrader.php(921): TGMPA_Bulk_Installer_Skin->after()
+#3 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3266): WP_Upgrader->run(Array)
+#4 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3379): TGMPA_Bulk_Installer->run(Array)
+#5 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(2985): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#8 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /Applications/MAMP/htdocs/online-shop/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/MAMP/htdocs/online-shop/wp-admin/admin.php(259): do_action('plugins_page_tg...')
+#11 /Applications/MAMP/htdocs/online-shop/wp-admin/plugins.php(10): require_once('/Applications/M...')
+#12 {main}
+  thrown in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php on line 162
+
+2024-02-09T15:50:57+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php:162
+Stack trace:
+#0 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php(162): sprintf('%1$s installed ...', 'Instagram Feed')
+#1 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3646): Bulk_Upgrader_Skin->after('Instagram Feed')
+#2 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-wp-upgrader.php(921): TGMPA_Bulk_Installer_Skin->after()
+#3 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3266): WP_Upgrader->run(Array)
+#4 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3379): TGMPA_Bulk_Installer->run(Array)
+#5 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(2985): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#8 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /Applications/MAMP/htdocs/online-shop/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/MAMP/htdocs/online-shop/wp-admin/admin.php(259): do_action('plugins_page_tg...')
+#11 /Applications/MAMP/htdocs/online-shop/wp-admin/plugins.php(10): require_once('/Applications/M...')
+#12 {main}
+  thrown in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php on line 162
+
+2024-02-09T15:51:11+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php:162
+Stack trace:
+#0 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php(162): sprintf('%1$s installed ...', 'Variation Swatc...')
+#1 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3646): Bulk_Upgrader_Skin->after('Variation Swatc...')
+#2 /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-wp-upgrader.php(921): TGMPA_Bulk_Installer_Skin->after()
+#3 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3266): WP_Upgrader->run(Array)
+#4 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(3379): TGMPA_Bulk_Installer->run(Array)
+#5 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(2985): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 /Applications/MAMP/htdocs/online-shop/wp-content/plugins/woostify-sites-library/includes/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#8 /Applications/MAMP/htdocs/online-shop/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 /Applications/MAMP/htdocs/online-shop/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/MAMP/htdocs/online-shop/wp-admin/admin.php(259): do_action('plugins_page_tg...')
+#11 /Applications/MAMP/htdocs/online-shop/wp-admin/plugins.php(10): require_once('/Applications/M...')
+#12 {main}
+  thrown in /Applications/MAMP/htdocs/online-shop/wp-admin/includes/class-bulk-upgrader-skin.php on line 162
+
